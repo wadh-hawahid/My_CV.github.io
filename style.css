@@ -1,0 +1,18 @@
+body {
+    padding-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+img {
+    float: right;
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    
+}
+
+  hr {
+    border: 0;
+    height: 1px;
+    background-image:blue;
+}
